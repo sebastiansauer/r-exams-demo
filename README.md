@@ -36,6 +36,9 @@ And we have cookies.
 
 ## Kursmaterial
 
+- [RStudio Cloud Project](https://rstudio.cloud/project/33243549) für den Kurs.
+ 
+
 
 
 ## Vertiefung
@@ -48,3 +51,6 @@ And we have cookies.
 
 
 
+## Autoren von R/Exams
+
+[Achim Zeileis](http://www.r-exams.org/contact/) und andere
