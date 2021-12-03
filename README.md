@@ -1,4 +1,7 @@
-# Allen Studentis eine eigene, individuelle Klausur erstellen? Wer macht sowas?! Wie man dynamische Prüfungsfragen (halb)automatisch mit R und R-Exams schreibt.
+# R-Exams: Demo
+
+
+Allen Studentis eine eigene, individuelle Klausur erstellen? Wer macht sowas?! Wie man dynamische Prüfungsfragen (halb)automatisch mit R und R-Exams schreibt.
 
 
 ## tl;dr
