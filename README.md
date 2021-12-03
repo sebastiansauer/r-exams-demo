@@ -34,6 +34,27 @@ And we have cookies.
 ⚠️ Das Lernen (einiger Grundlagen) von R kann etwas Zeit benötigen.
 
 
+## IT-Vorbereitung
+
+Es ist etwas IT-Vorbereitung nötig.
+Genauer gesagt müssen Sie R und R/Exams installieren.
+R/Exams ist ein "R-Paket", das ist eine Erweiterung für R.
+Damit Sie (aktiv) an diesem Kurs teilnehmen können,
+müssen Sie die Software zur Verfügung haben.
+Dafür gibt es zwei Wege: einen Komfort-Weg und einen Do-it-yourself-Weg.
+
+### Komfort-Weg
+
+1. Legen Sie sich ein (kostenloses) Konto bei [RStudio Cloud](https://rstudio.cloud/) an.
+2. Melden Sie sich im [RStudio Cloud Project dieses Kurses](https://rstudio.cloud/project/33243549) an.
+
+### DIY-Weg
+
+1. [Installieren Sie R und seine Freunde](https://data-se.netlify.app/2021/11/30/installation-von-r-und-seiner-freunde/)
+2. Laden Sie sich die Materialien vom [Github-Repo dieses Kurses](https://github.com/sebastiansauer/r-exams-demo) herunter; genauer gesagt, laden Sie sich das ganze Repo herunter.
+3. Installieren Sie sich die [benötigten R-Pakete](https://github.com/sebastiansauer/r-exams-demo/blob/main/div/r-pckgs.R).
+
+
 ## Kursmaterial
 
 - [RStudio Cloud Project](https://rstudio.cloud/project/33243549) für den Kurs.
