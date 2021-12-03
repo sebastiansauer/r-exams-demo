@@ -1,9 +1,10 @@
 # R-Exams: Demo
 
 
-Allen Studentis eine eigene, individuelle Klausur erstellen? Wer macht sowas?! Wie man dynamische Prüfungsfragen (halb)automatisch mit R und R/Exams schreibt.
+*Allen Studentis eine eigene, individuelle Klausur erstellen? Wer macht sowas?!* 
+*Wie man dynamische Prüfungsfragen (halb)automatisch mit R und R/Exams schreibt.*
 
-🔗**Hier geht's zur [Homepage des Kurses](https://sebastiansauer.github.io/r-exams-demo/)**🔗
+🔗 **Hier geht's zur [Homepage des Kurses](https://sebastiansauer.github.io/r-exams-demo/)** 🔗
 
 
 ## tl;dr
@@ -61,6 +62,15 @@ Dafür gibt es zwei Wege: einen Komfort-Weg und einen Do-it-yourself-Weg.
 
 - [RStudio Cloud Project](https://rstudio.cloud/project/33243549) für den Kurs.
  
+
+In diesem Projekt finden Sie folgende Materalien:
+
+  - `div`: sonstiges Material
+  - `ex-compilations`:  Zusammenstellungen von Prüfungsfragen, also "Proto-Klausuren"
+  - `exs`: Prüfungsaufgaben (exercises)
+  - `output`: Die erstellten Prüfungen im HTML-Format oder Moodle-XML-Format
+  
+Dazu kommt noch die Readme-Datei und etwas organisatorische Technikzeugs.
 
 
 
