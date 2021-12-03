@@ -3,7 +3,7 @@
 
 Allen Studentis eine eigene, individuelle Klausur erstellen? Wer macht sowas?! Wie man dynamische Prüfungsfragen (halb)automatisch mit R und R/Exams schreibt.
 
->>>>>**Hier geht's zur [Homepage des Kurses](https://sebastiansauer.github.io/r-exams-demo/)**<<<<<
+🔗**Hier geht's zur [Homepage des Kurses](https://sebastiansauer.github.io/r-exams-demo/)**🔗
 
 
 ## tl;dr
