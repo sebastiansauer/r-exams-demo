@@ -26,8 +26,10 @@ Die Software wird online bereitgestellt für den Kurs; alternativ können sich d
 ## Für wen dieser Kurs (nicht) geeignet ist
 
 Zielgruppe dieses Kurses sind Dozentis, die Prüfungsfragen dynamisch erstellen wollen.
-Voraussetzung für die Nutzung von R/Exams ist die Bereitschaft, in [R]() zu programmieren bzw. dies lernen zu wollen.
-Das Lernen (einiger Grundlagen) von R kann etwas Zeit benötigen.
+Voraussetzung für die Nutzung von R/Exams ist die Bereitschaft, in [R](https://www.r-project.org/) zu programmieren bzw. dies lernen zu wollen.
+Keine Angst, nur in ein paar Grundlagen von R.
+And we have cookies.
+⚠️ Das Lernen (einiger Grundlagen) von R kann etwas Zeit benötigen.
 
 
 ## Kursmaterial
