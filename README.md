@@ -50,6 +50,8 @@ für den ist dieser Kurs nicht geeignet.
 
 ## IT-Vorbereitung
 
+*Bitte beachten Sie, dass IT-Vorbereitung vor dem Kurs nötig ist.*
+
 Es ist etwas IT-Vorbereitung nötig.
 Genauer gesagt müssen Sie R und R/Exams installieren.
 R/Exams ist ein "R-Paket", das ist eine Erweiterung für R.
