@@ -37,6 +37,12 @@ And we have cookies.
 ⚠️ Das Lernen (einiger Grundlagen) von R kann etwas Zeit benötigen.
 
 
+## Lernziele
+
+- Das Vorgehen zum Erstellen von dynamischen Prüfungsaufgaben mit R/Exams im Überblick kennen; das Anwenden können - also das selbständige Erstellen von Prüfungsaufgaben - ist nicht Lernziel.
+- Das Für und Wider des Einsatzes von R/Exams diskutieren können und für sich selber eine Meinung (wenn auch nicht abschließend) gebildet haben.
+
+
 ## IT-Vorbereitung
 
 Es ist etwas IT-Vorbereitung nötig.
@@ -44,14 +50,14 @@ Genauer gesagt müssen Sie R und R/Exams installieren.
 R/Exams ist ein "R-Paket", das ist eine Erweiterung für R.
 Damit Sie (aktiv) an diesem Kurs teilnehmen können,
 müssen Sie die Software zur Verfügung haben.
-Dafür gibt es zwei Wege: einen Komfort-Weg und einen Do-it-yourself-Weg.
+Dafür gibt es zwei Wege: einen Komfort-Weg und einen Selbermacher-Weg.
 
 ### Komfort-Weg
 
 1. Legen Sie sich ein (kostenloses) Konto bei [RStudio Cloud](https://rstudio.cloud/) an.
 2. Melden Sie sich im [RStudio Cloud Project dieses Kurses](https://rstudio.cloud/project/33243549) an.
 
-### DIY-Weg
+### Selbermacher-Weg
 
 1. [Installieren Sie R und seine Freunde](https://data-se.netlify.app/2021/11/30/installation-von-r-und-seiner-freunde/)
 2. Laden Sie sich die Materialien vom [Github-Repo dieses Kurses](https://github.com/sebastiansauer/r-exams-demo) herunter; genauer gesagt, laden Sie sich das ganze Repo herunter.
@@ -63,14 +69,14 @@ Dafür gibt es zwei Wege: einen Komfort-Weg und einen Do-it-yourself-Weg.
 - [RStudio Cloud Project](https://rstudio.cloud/project/33243549) für den Kurs.
  
 
-In diesem Projekt finden Sie folgende Materalien:
+In diesem Projekt finden Sie folgende Materialien:
 
   - `div`: sonstiges Material
   - `ex-compilations`:  Zusammenstellungen von Prüfungsfragen, also "Proto-Klausuren"
   - `exs`: Prüfungsaufgaben (exercises)
   - `output`: Die erstellten Prüfungen im HTML-Format oder Moodle-XML-Format
   
-Dazu kommt noch die Readme-Datei und etwas organisatorische Technikzeugs.
+Dazu kommt noch die Readme-Datei und etwas organisatorisches Technikzeugs.
 
 
 
@@ -87,3 +93,8 @@ Dazu kommt noch die Readme-Datei und etwas organisatorische Technikzeugs.
 ## Autoren von R/Exams
 
 [Achim Zeileis](http://www.r-exams.org/contact/) und andere
+
+
+## Dozent
+
+Sebastian Sauer
