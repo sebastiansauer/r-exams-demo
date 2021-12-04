@@ -36,6 +36,11 @@ And we have cookies.
 
 ⚠️ Das Lernen (einiger Grundlagen) von R kann etwas Zeit benötigen.
 
+Wer für sich selbst ausschließt, (einige Zeilen) zu programmieren,
+für den ist dieser Kurs nicht geeignet.
+
+
+
 
 ## Lernziele
 
