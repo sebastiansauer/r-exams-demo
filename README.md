@@ -85,7 +85,7 @@ In diesem Projekt finden Sie folgende Materialien:
   
 Dazu kommt noch die Readme-Datei und etwas organisatorisches Technikzeugs.
 
-
+- [Github Repo](https://github.com/sebastiansauer/r-exams-demo), auf dem alle Inhalte des Kurses abgelegt sind.
 
 ## Vertiefung
 
