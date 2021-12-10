@@ -87,6 +87,9 @@ Dazu kommt noch die Readme-Datei und etwas organisatorisches Technikzeugs.
 
 - [Github Repo](https://github.com/sebastiansauer/r-exams-demo), auf dem alle Inhalte des Kurses abgelegt sind.
 
+- [Video-Dokumentation](https://youtube.com/playlist?list=PLRR4REmBgpIGVFvaZGXpxVxitq0zrduex)
+
+
 ## Vertiefung
 
 - [Homepage von R/Exams](http://www.r-exams.org/)
@@ -94,6 +97,7 @@ Dazu kommt noch die Readme-Datei und etwas organisatorisches Technikzeugs.
 - [Beispiele für dynamische Fragen mit R/Exams](http://www.r-exams.org/intro/dynamic/)
 - [Installationshinweise für R/Exams](http://www.r-exams.org/tutorials/installation/)
 - [Stackoverflow tag r-exams](https://stackoverflow.com/questions/tagged/r-exams)
+- [R/Exams-Videos](https://youtube.com/playlist?list=PLsEZAAbioUw1IBnhtBi9eIo0uqMHmqDor)
 
 
 
