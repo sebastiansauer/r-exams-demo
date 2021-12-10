@@ -7,8 +7,10 @@ knitr::opts_chunk$set(echo = FALSE,
 
 
 ```{r}
+# Berechne Quadratzahl von 1 bis 10:
 zahlen <- (1:10)^2
 
+# ziehe daraus zufällig eine Zahl:
 meine_zahl <- sample(zahlen, 1)
 ```
 
@@ -41,6 +43,6 @@ exsolution: `r sol`
 extol: 0.01
 exname: numerisch2
 expoints: 1
-
+exdyn: TRUE
 
 

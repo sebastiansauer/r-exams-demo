@@ -1,27 +1,7 @@
 
-
-
 ```{r libs, include = FALSE}
-library(tidyverse)
-library(testthat)
-library(glue)
-library(exams)
+library(tidyverse)  # Datenjudo
 ```
-
-
-```{r global-knitr-options, include=FALSE}
-knitr::opts_chunk$set(fig.pos = 'H',
-                      fig.asp = 0.618,
-                      fig.width = 4,
-                      fig.cap = "", 
-                      fig.path = "",
-                      echo = FALSE,
-                      message = FALSE,
-                      fig.show = "hold",
-                      comment = "")
-```
-
-
 
 
 

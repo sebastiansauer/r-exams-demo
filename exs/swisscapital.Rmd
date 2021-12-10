@@ -1,3 +1,7 @@
+<!-- Einfache, dynamische Aufgabe (Single Choice); es gibt mehr Antwortoptionen als dargestellte Antworten. -->
+
+
+
 Question
 ========
 What is the seat of the federal authorities in Switzerland (i.e., the de facto capital)?

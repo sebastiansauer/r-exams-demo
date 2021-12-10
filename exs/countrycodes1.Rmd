@@ -1,3 +1,8 @@
+<!-- Hier wird dynamisch eine Matrix mit Ländern und ihren Codes erzeugt im Sinne von Frage-Lösung-Paaren. Dann kann per Zufall ein Land (Frage) gezogen werden. Die Lösung ist dann der Countrycode, die in der gleichen Zeile der Matrix steht. -->
+
+
+
+
 ```{r data generation, echo = FALSE, results = "hide"}
 dat <- matrix(
   c(

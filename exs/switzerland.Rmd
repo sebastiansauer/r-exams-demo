@@ -1,3 +1,6 @@
+<!-- Einfaches Beispiel für eine MC-Frage; nicht dynamisch. -->
+
+
 Question
 ========
 Which of the following statements about Switzerland is/are correct?

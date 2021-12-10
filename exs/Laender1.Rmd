@@ -1,27 +1,24 @@
 
 
 ```{r message=FALSE, include=FALSE}
-library(readxl)
-library(dplyr)
+library(readxl)  # Exceldateien importieren
+library(dplyr)  # Datenjudo
+library(here)  # Pfade vereinfachen
 ```
 
 
 ```{r}
-d_path <- "exs/supplements/Laender-Hauptstaedte.xlsx"
+# Excel-Datei mit den Ländern importieren:
+d_path <- here("exs", "supplements", "Laender-Hauptstaedte.xlsx")
 d <- read_xlsx(d_path)
 ```
 
 
-```{r eval = FALSE}
-include_supplement(file = "3.png",
-                   recursive = TRUE)
-```
-
 
 ```{r}
-item <- 
-  d %>%  # Nimm den Datensatz "d"
-  sample_n(1)  # und ziehe zufällig eine Zeile
+item <- # "item" wird definiert wie folgt ...
+  d %>%  # Nimm den Datensatz "d" UND DANN ...
+  sample_n(1)  # ziehe zufällig eine Zeile
 ```
 
 

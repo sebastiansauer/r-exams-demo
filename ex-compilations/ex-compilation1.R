@@ -32,7 +32,7 @@ exams2moodle(file = ex_demo,
              , dir = "output"
              , iname = TRUE,
              , testid = TRUE
-             , n = 10,
+             , n = 2,
              , edir = "exs"
              , verbose = TRUE
              , quiet = FALSE
@@ -43,19 +43,3 @@ exams2moodle(file = ex_demo,
                               eval = exams_eval(rule = "none")))
 
 
-
-
-
-exams2moodle(file = numerisch3,
-             , name = "Testexamen-RExams"
-             , iname = TRUE
-             , dir = "output"
-             , n = 10,
-             , edir = "exs"
-             , verbose = TRUE
-             , quiet = FALSE
-             , rule = "none"
-             , mchoice = list(shuffle = TRUE,
-                              eval = exams_eval(rule = "none"))
-             , schoice = list(shuffle = TRUE,
-                              eval = exams_eval(rule = "none")))

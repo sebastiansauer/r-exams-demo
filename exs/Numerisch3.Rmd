@@ -7,13 +7,14 @@ knitr::opts_chunk$set(echo = FALSE,
 
 
 ```{r}
-# Zufallszahlen ziehen: 
+# Quadratzahlen von 1 bis 10 berechnen:
 zahlen <- (1:10)^2
 
+# Eine davon auswählen, wiederum zufällig:
 gezogene_zahl <- sample(zahlen, 1)
 
 
-# Eine davon auswählen, wiederum zufällig:
+# Antwort berechnen:
 richtige_antwort <- sqrt(gezogene_zahl)
 
 # Falsche Antworten zufällig bestimmen:
@@ -42,7 +43,7 @@ items <-
     questions = c(richtige_antwort, falsche_antworten),
     solutions = c(TRUE, FALSE, FALSE, FALSE, FALSE)
   ) %>% 
-  sample_n( size = nrow(.))
+  sample_n( size = nrow(.))  # Reihenfolge der Antworten mischen
 ```
 
 
@@ -56,6 +57,7 @@ Was ist das Ergebnis dieser Rechnung:
 $\sqrt{`r gezogene_zahl`}$
 
 ```{r questionlist, results = "asis", echo = FALSE}
+# Liste mit Antwortoptionen erzeugen:
 answerlist(items$questions, markup = "markdown")
 ```
 
@@ -68,6 +70,7 @@ Die Wurzel von `r gezogene_zahl` ist `r `richtige_antwort`.
 
 
 ```{r solutionlist,  results = "asis", echo = FALSE}
+# Liste mit Richtig/Falsch pro Antwortoption erzeugen:
 answerlist(ifelse(items$solutions, "Richtig", "Falsch"), markup = "markdown")
 ```
 
@@ -82,6 +85,7 @@ extype: schoice
 exsolution: `r mchoice2string(items$solutions)`
 exname: numerisch3
 expoints: 1
+exdyn: TRUE
 
 
 
