@@ -1,0 +1,34 @@
+
+
+Question
+========
+Unterschiedliche Anteile können über die Log Odds Ratios, auch *Logit* (*L*) genannt untersucht werden:
+
+
+log odds ratio $= L = ln \left( \frac {\frac{n}{t}\text{Gruppe A}} {\frac{n}{t}\text{Gruppe B}} \right),$
+
+wobei *n* für die Anzahl der Elemente in der Gruppe $g \in {A, B}$ und *t* für die Gesamtahl der Elemente in beiden Gruppen steht.
+
+Welche Aussage zum Log Odds Ratio ist korrekt?
+
+
+
+Answerlist
+----------
+* Nimmt man den (natürlichen) Logarithmus eines Odds Ratio, so resultiert 1, wenn der Odds Ratio 1 ist.
+* Nimmt man den (natürlichen) Logarithmus eines Odds Ratio, so resultiert 0, wenn der Odds Ratio 1 ist.
+* Die obere Grenze von *L* ist 1.
+* Die untere Grenze von *L* ist 0.
+
+
+Solution
+========
+
+Nimmt man den (natürlichen) Logarithmus eines Odds Ratio, so resultiert 0, wenn der Odds Ratio 1 ist.
+
+Meta-information
+================
+extype: schoice
+exsolution:  0100
+exname: logoddsratio 
+
