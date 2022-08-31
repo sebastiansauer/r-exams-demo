@@ -38,3 +38,7 @@ exname: Swiss Capital
 extype: schoice
 exsolution: 0100000
 exshuffle: 5
+tags:
+- example
+- illustration
+
